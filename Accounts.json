@@ -1,0 +1,20 @@
+{
+  "1234": {
+    "password": "4321",
+    "displayName": "1234",
+    "role": "member",
+    "uid": "10c242e1858e2443799d3a56183b9d0f",
+    "createdBy": "Vanda",
+    "createdAt": "2026-06-12T10:42:08.050Z",
+    "trialDuration": "permanent",
+    "trialExpiry": null
+  },
+  "Leonore": {
+    "password": "LEONORE",
+    "displayName": "PaiLeonore",
+    "role": "developer",
+    "uid": "d7e27df25f68d737f7a454b58a97f77c",
+    "smooth": true,
+    "createdAt": "2026-05-23T14:20:24.479Z"
+  } 
+}
